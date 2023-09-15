@@ -1,0 +1,6 @@
+001 - criar um novo projeto utilizando o Empty Activity
+002 - modificar a mensagem de boas vindas em Greeting para "Tipos de Gatos"
+003 - criar uma função App() para encapsular a interface
+004 - criar um preview para App()
+005 - criar uma função ActionButton() para instânciar um botão
+
